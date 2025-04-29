@@ -33,7 +33,7 @@ function Contact() {
             <div className="flex items-start">
               <FaPhone size={22} className="text-yellow-600 mr-4 mt-1 flex-shrink-0" />
               <div>
-                <h3 className="font-semibold text-gray-900 mb-1">Telefono / WhatsApp</h3>
+                <h3 className="font-semibold text-gray-900 mb-1">Teléfono / WhatsApp</h3>
                 <p>+34 697 32 10 37</p>
                 <a
                   href="https://wa.me/34697321037"
@@ -41,7 +41,7 @@ function Contact() {
                   rel="noopener noreferrer"
                   className="text-yellow-600 hover:text-yellow-700 transition duration-300 block mt-1"
                 >
-                  Contactanos por WhatsApp
+                  Contáctanos por WhatsApp
                 </a>
               </div>
             </div>
