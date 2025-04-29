@@ -9,8 +9,12 @@ import './index.css';
 
 // Podrías obtener esta lista desde Services.jsx o una fuente común
 const serviceOptions = [
-  "Corte Clásico", "Arreglo de Barba", "Afeitado Tradicional",
-  "Corte y Barba", "Corte Infantil", "Tratamientos Capilares",
+  "Corte de Pelo",
+  "Afeitado & Barba",
+  "Corte + Barba",
+  "Queratina",
+  "Mechas & Color",
+  "Estilo Personalizado",
 ];
 
 function App() {
